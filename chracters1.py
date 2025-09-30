@@ -1,4 +1,4 @@
-
+# test git hub
 # def get_characters(characters):
 characters=input("pl enter characters number and '*','/','+','-':>>  ")
 	# return characters
